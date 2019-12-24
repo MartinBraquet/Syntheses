@@ -1,6 +1,6 @@
 *.log
 *.aux
-*.auxlock
+*.auxlock 
 *.pdf
 *.swp
 *.DS_Store
